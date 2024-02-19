@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            // Source code
+            "name": "Product",
+            "path": "vscode"
+        },
+        {
+            // Docs and release notes
+            "name": "Documentation",
+            "path": "vscode-docs"
+        },
+        {
+            // Yeoman extension generator
+            "name": "Extension generator",
+            "path": "vscode-generator-code"
+        }
+    ]
+}

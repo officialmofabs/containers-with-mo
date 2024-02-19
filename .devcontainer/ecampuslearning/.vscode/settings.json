@@ -1,0 +1,12 @@
+{
+    "C_Cpp.experimentalFeatures": "enabled",
+    "iis.configDir": ".",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "vercel.AccessToken": "kUg0LmFoZWWjk9341lhoBxGi",
+    "redhat.telemetry.enabled": true,
+    "yaml.keyOrdering": true,
+    "yaml.suggest.parentSkeletonSelectedFirst": true
+}
